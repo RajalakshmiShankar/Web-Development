@@ -48,6 +48,27 @@ const emojipedia = [
     meaning:
       "Smiley with red cheeks is stretching out its hands toward you. Wants to hug you. It's an open and cordial gesture and an expression of warmth and friendliness. heavenly smile is shown by the 😇 halo emoji, which symbolizes innocence and goodness. People use it to express their good deeds, loving behavior or exemplary attitude. Sometimes this emoji is used humorously to show a winking innocence for less good deeds or behaviors. ",
   },
+  {
+    id: 7,
+    emoji: "🤤",
+    name: "Drooling Face",
+    meaning:
+      "Slobbering face, the saliva flowing from the corner of the mouth. Represents desire for a person, delicious food, the new car, or the anticipation of an event. Expression of extreme interest and desire. ",
+  },
+  {
+    id: 8,
+    emoji: "😮",
+    name: "Face With Open Mouthe",
+    meaning:
+      "Wow, I'm impressed! Perplexed smiley is looking completely puzzled. Is positively or negatively surprised: from mildly astonished to completely steamrolled.",
+  },
+  {
+    id: 9,
+    emoji: "🥶",
+    name: "Freezing face",
+    meaning:
+      "It is so cold, you are about to freeze to death. The smile is almost frozen. Already totally blue in the face from the cold temperature, tortured facial expression. Only a cup of tea, coffee, or the hot tub can help now.",
+  },
 ];
 
 export default emojipedia;
