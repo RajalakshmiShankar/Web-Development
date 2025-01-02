@@ -62,13 +62,6 @@ const emojipedia = [
     meaning:
       "Wow, I'm impressed! Perplexed smiley is looking completely puzzled. Is positively or negatively surprised: from mildly astonished to completely steamrolled.",
   },
-  {
-    id: 9,
-    emoji: "🥶",
-    name: "Freezing face",
-    meaning:
-      "It is so cold, you are about to freeze to death. The smile is almost frozen. Already totally blue in the face from the cold temperature, tortured facial expression. Only a cup of tea, coffee, or the hot tub can help now.",
-  },
 ];
 
 export default emojipedia;
